@@ -1,2 +1,2 @@
 # AIO
-Educational AIO for L# (LeagueSharp) UPDATE
+Educational AIO for L# (LeagueSharp) 
